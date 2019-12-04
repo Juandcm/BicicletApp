@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "BicicletApp",
+    "icon": "./src/assets/icons/icon.png",
+    "version": "1.0.0",
+    "slug": "BicicletApp",
+    "sdkVersion": "35.0.0",
+    "privacy": "public",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#FFFFFF"
+    },
+    "assetBundlePatterns": [
+      "src/assets/images/source/*",
+      "src/assets/icons/**/*.png",
+      "src/assets/fonts"
+    ],
+    "splash": {
+      "image": "src/assets/images/source/splash.png",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bicicletapp.com"
+    },
+    "android": {
+      "versionCode": 1,
+      "package": "com.bicicletapp.com",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyC5EbBqcEHkXo-7eueUnypxguW2taOVNps"
+        }
+      }
+    },
+    "description": ""
+  }
+}

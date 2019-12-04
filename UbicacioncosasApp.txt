@@ -1,0 +1,36 @@
+en el archivo src/containers/menu/layouts/routes.ts estan las rutas y del menu principal layout y en el src/containers/menu/layouts/layouts.container.tsx esta la logica de cambiar de vista de acuerdo al react navigation
+
+en el archivo src/containers/menu/menu.component.tsx esta el bottontab para cambiar de vistas en el react navigation y en src/containers/menu/menu.container.tsx esta la logica de cambiar de vista de acuerdo al react navigation
+
+
+en la carpeta src/core/appLoader esta la funcionalidad de que cuando se inicie la app cargue la imagen y haga zoom cuando termine de cargar
+
+en la carpeta src/core/data estan todos los datos ficticios de la app
+
+en la carpeta src/core/formatters esta la funcionalidad de formatear la tarjetas de credito
+
+en la carpeta src/core/utils/analytics.ts esta la funcionalidad de agregar google analytics
+
+en la carpeta src/core/validators/index.ts esta la funcionalidad de validacion de formularios
+
+//////////////
+
+en el archivo src/core/navigation/utils.ts hay funciones que se pueden utilizar
+
+en el archivo src/core/navigation/routes.ts estan todas las rutas de la aplicacion
+
+en el archivo src/core/navigation/options.ts estan todas las configuraciones visuales y funcionales de las rutas de la aplicacion
+
+en el archivo src/core/navigation/components/topNavigationBar.component.tsx esta la parte visual de el topnavigation
+
+en el archivo src/components/ecommerce/ecommerce.header.tsx esta la parte visual de el topnavigation tambien
+
+
+Iconos
+https://akveo.github.io/eva-icons/
+
+
+
+/////////////////
+cosas que no estoy seguro para que son:
+la carpeta src/core/model
