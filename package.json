@@ -40,7 +40,7 @@
     "formik": "^2.0.6",
     "frisbee": "^3.1.0",
     "material-ui-pickers": "^2.2.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "qs-stringify": "^1.1.0",
     "react": "^16.8.6",
     "react-moment": "^0.9.6",
