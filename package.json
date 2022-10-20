@@ -60,7 +60,7 @@
     "react-native-navigation-drawer-layout": "^0.0.7",
     "react-native-picker-select": "^6.3.3",
     "react-native-really-awesome-button": "^1.5.0",
-    "react-native-reanimated": "^1.2.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-screens": "^1.0.0-alpha.23",
     "react-native-skeleton-content": "^1.0.12",
     "react-native-snap-carousel": "^3.8.4",
